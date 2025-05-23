@@ -10,7 +10,7 @@ const projects = [
   },
   {
     title: "Device Tracking",
-    image: "m.png",
+    image: "dd.jpg",
     description: "This project is a real-time location tracking application using Node.js, Express.js, Socket.io, and EJS as the templating engine. The application allows users to share their live locations in real-time.",
     demoLink:"https://github.com/diyabhargava27/Tracking_Project"
   },
