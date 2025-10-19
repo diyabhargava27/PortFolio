@@ -24,7 +24,7 @@ const projects = [
     title: "Budgit Fit",
     image: "coin.jpg",
     description: "Budgit Fit is a personal finance tracking app built using the MERN stack. It helps users manage expenses, set budgets, and analyze spending habits for smarter financial decisions.(View in Desktop-site)",
-    demoLink: "https://budget-fit-1-frontend.onrender.com"
+    demoLink: "https://budget-fit-frontend-qdsr.onrender.com/"
   },
   {
     title: "Library Management",
