@@ -84,8 +84,8 @@ const Home = () => {
           className="mt-6 px-6 py-2 bg-cyan-500 text-black rounded-full font-bold"
           onClick={() => {
             const link = document.createElement("a");
-            link.href = "/_Diya_Bhargava_.pdf"; 
-            link.download = "_Diya_Bhargava_.pdf"; 
+            link.href = "/DiyaBhargava(2).pdf"; 
+            link.download = "DiyaBhargava(2).pdf"; 
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
@@ -125,4 +125,5 @@ const Home = () => {
 };
 
 export default Home;
+
 
