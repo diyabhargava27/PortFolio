@@ -85,7 +85,7 @@ const Home = () => {
           onClick={() => {
             const link = document.createElement("a");
             link.href = "/app/public/DiyaBhargava (2).pdf"; 
-            link.download = "DiyaBhargava (2).pdf"; 
+            link.download = "DiyaBhargava.pdf"; 
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
@@ -125,6 +125,7 @@ const Home = () => {
 };
 
 export default Home;
+
 
 
 
