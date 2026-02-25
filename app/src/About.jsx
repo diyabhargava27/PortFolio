@@ -4,19 +4,19 @@ import { motion } from "framer-motion";
 
 const educationData = [
   {
-    year: "2025",
+    year: "2026",
     title: "B.Tech CSE",
     institution: "SATI College, Vidisha",
     description: "Pursuing my Bachelor's degree in Computer Science with a focus on Backend Development.",
   },
   {
-    year: "2022",
+    year: "2023",
     title: "Diploma in CSE",
     institution: "Government Polytechnic College, Shivpuri",
     description: "Completed diploma with a CGPA of 8.58, specializing in Computer Science and Engineering.",
   },
   {
-    year: "2019",
+    year: "2020",
     title: "10th Grade",
     institution: "St. Benedict's School, Shivpuri",
     description: "Completed High school ",
@@ -87,3 +87,4 @@ const About = () => {
 };
 
 export default About;
+
