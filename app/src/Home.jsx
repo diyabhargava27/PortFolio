@@ -84,7 +84,7 @@ const Home = () => {
           className="mt-6 px-6 py-2 bg-cyan-500 text-black rounded-full font-bold"
           onClick={() => {
             const link = document.createElement("a");
-            link.href = "/DiyaBhargava.pdf"; 
+            link.href = "/Diya_Bhargava(heizen).pdf"; 
             link.download = "DiyaBhargava.pdf"; 
             document.body.appendChild(link);
             link.click();
