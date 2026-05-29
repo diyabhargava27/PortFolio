@@ -85,7 +85,7 @@ const Home = () => {
           onClick={() => {
             const link = document.createElement("a");
             link.href = "/Diya_Bhargava(heizen).pdf"; 
-            link.download = "DiyaBhargava.pdf"; 
+            link.download = "Diya_Bhargava(heizen).pdf"; 
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
