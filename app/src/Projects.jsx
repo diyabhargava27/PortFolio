@@ -12,7 +12,7 @@ const projects = [
     title: "Device Tracking",
     image: "dd.jpg",
     description: "This project is a real-time location tracking application using Node.js, Express.js, Socket.io, and EJS as the templating engine. The application allows users to share their live locations in real-time.",
-    demoLink:"https://github.com/diyabhargava27/Tracking_Project"
+    demoLink:"https://tracking-project-db7q.onrender.com"
   },
   {
     title: "Chess Game",
@@ -24,7 +24,7 @@ const projects = [
     title: "Budgit Fit",
     image: "coin.jpg",
     description: "Budgit Fit is a personal finance tracking app built using the MERN stack. It helps users manage expenses, set budgets, and analyze spending habits for smarter financial decisions.(View in Desktop-site)",
-    demoLink: "https://budget-fit-frontend-qdsr.onrender.com/"
+    demoLink: "https://frontend-1-9jf9.onrender.com/login"
   },
   {
     title: "Library Management",
