@@ -3,34 +3,34 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "Movie Dekho",
-    image: "c.jpg",
-    description: "A seamless movie ticket booking platform using PHP, MySQL & Tailwind CSS.",
-    demoLink : "https://github.com/vaishnavee1424/MOVIE-DEKHO"
+    title: "Budgit Fit",
+    image: "coin.jpg",
+    description: "Budgit Fit is a personal finance tracking app built using the MERN stack. It helps users manage expenses, set budgets, and analyze spending habits for smarter financial decisions.(View in Desktop-site)",
+    demoLink: "https://frontend-1-9jf9.onrender.com/login"
   },
-  {
+   {
     title: "Device Tracking",
     image: "dd.jpg",
     description: "This project is a real-time location tracking application using Node.js, Express.js, Socket.io, and EJS as the templating engine. The application allows users to share their live locations in real-time.",
     demoLink:"https://tracking-project-db7q.onrender.com"
   },
   {
-    title: "Chess Game",
-    image: "cc.jpg",
-    description: "This is a Chess Game built using Node.js, Express, Socket.io, and EJS. The project allows players to engage in real-time multiplayer chess over the web.",
-    demoLink: "https://chess-ij9y.onrender.com"
+    title: "Movie Dekho",
+    image: "c.jpg",
+    description: "A seamless movie ticket booking platform using PHP, MySQL & Tailwind CSS.",
+    demoLink : "https://github.com/vaishnavee1424/MOVIE-DEKHO"
   },
-  {
-    title: "Budgit Fit",
-    image: "coin.jpg",
-    description: "Budgit Fit is a personal finance tracking app built using the MERN stack. It helps users manage expenses, set budgets, and analyze spending habits for smarter financial decisions.(View in Desktop-site)",
-    demoLink: "https://frontend-1-9jf9.onrender.com/login"
-  },
-  {
+    {
     title: "Library Management",
     image: "l.jpg",
     description: "Library Management System using Django is a web-based application that allows librarians to manage books, members, issues, and returns efficiently. It provides features like book inventory tracking, user registration, book search, issuing/returning books, and overdue fine calculation. Built with Django, it uses a powerful admin panel for backend operations and ensures smooth user interaction through dynamic web pages.",
     demoLink: "https://github.com/diyabhargava27/django-project"
+  },
+  {
+    title: "Chess Game",
+    image: "cc.jpg",
+    description: "This is a Chess Game built using Node.js, Express, Socket.io, and EJS. The project allows players to engage in real-time multiplayer chess over the web.",
+    demoLink: "https://chess-ij9y.onrender.com"
   }
 ];
 
